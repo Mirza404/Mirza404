@@ -1,23 +1,5 @@
 <p align="center">
-
-  ![Mirza404 (2)](https://github.com/user-attachments/assets/2671b74a-0219-4ace-b4cb-c7dbb84a1713)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Mirza404&theme=android-dark&hide_border=false&short_numbers=true&card_width=500" alt="GitHub Streak" />
+  </a>
 </p>
-
----
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mirza404&theme=android-dark&hide_border=true&short_numbers=true&card_width=500)](https://git.io/streak-stats)
-<!--
-**Mirza404/Mirza404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
