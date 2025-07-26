@@ -1,5 +1,12 @@
-## Hi there 👋
+<p align="center">
 
+  ![Mirza404 (2)](https://github.com/user-attachments/assets/2671b74a-0219-4ace-b4cb-c7dbb84a1713)
+</p>
+
+---
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mirza404&theme=android-dark&hide_border=true&short_numbers=true&card_width=500)](https://git.io/streak-stats)
 <!--
 **Mirza404/Mirza404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
