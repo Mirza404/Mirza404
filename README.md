@@ -21,4 +21,11 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=lightgreen&color=black">
 
   </p>
+  <hr>
+  <p align="center">
+  And I am currently working on projects including:<br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/PHP%20-%20black?logo=php&logoColor=lightgreen">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Laravel%20-%20black?logo=laravel&logoColor=lightgreen">
+
+  </p>
 </p>
