@@ -26,7 +26,7 @@
   And I am currently working on projects including:<br>
   <img alt="Static Badge" src="https://img.shields.io/badge/PHP%20-%20black?logo=php&logoColor=lightgreen">
   <img alt="Static Badge" src="https://img.shields.io/badge/Laravel%20-%20black?logo=laravel&logoColor=lightgreen">
-<img alt="Static Badge" src="https://img.shields.io/badge/inertia-black?logo=inertia&logoColor=lightgreen">
+<img alt="Static Badge" src="https://img.shields.io/badge/Inertia-black?logo=inertia&logoColor=lightgreen">
 
   </p>
 </p>
