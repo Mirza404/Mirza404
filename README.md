@@ -5,7 +5,7 @@
 </p>
 <hr>
 <p align="center">
-  As an aspiring web developer, I have been doing some full-stack work for the last year or so. Through several projects, I have gained some experience on the following:
+  As an aspiring web developer, I have been doing some full-stack work for the last year or so. Through several projects, I have gained experience on the following:
   <br>
   <p align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/HTML-lightgreen?style=flat&logo=HTML5&logoColor=lightgreen&color=black">
