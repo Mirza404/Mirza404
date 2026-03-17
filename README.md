@@ -5,7 +5,7 @@
 </p>
 <hr>
 <p align="center">
-Junior Full-Stack Engineer | Laravel + React/Next.js | Ex-Everbit Intern | Sarajevo → Remote EU  <br>
+Junior Full-Stack Engineer | Laravel + React/Next.js | AI Integration | Ex-Everbit Intern | Sarajevo → Remote EU  <br>
   <p align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/HTML-lightgreen?style=flat&logo=HTML5&logoColor=lightgreen&color=black">
     <img alt="Static Badge" src="https://img.shields.io/badge/CSS-lightgreen?style=flat&logo=CSS&logoColor=lightgreen&color=black">
@@ -22,7 +22,7 @@ Junior Full-Stack Engineer | Laravel + React/Next.js | Ex-Everbit Intern | Saraj
   </p>
   <hr>
   <p align="center">
-  Currently building AI-augmented apps using: <br>
+  Currently building another AI-augmented app using: <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/PHP%20-%20black?logo=php&logoColor=lightgreen">
   <img alt="Static Badge" src="https://img.shields.io/badge/Laravel%20-%20black?logo=laravel&logoColor=lightgreen">
 <img alt="Static Badge" src="https://img.shields.io/badge/Inertia-black?logo=inertia&logoColor=lightgreen">
