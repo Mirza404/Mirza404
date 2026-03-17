@@ -5,8 +5,7 @@
 </p>
 <hr>
 <p align="center">
-  As an aspiring web developer, I have been doing some full-stack work for the last year or so. Through several projects, I have gained experience on the following:
-  <br>
+Junior Full-Stack Engineer | Laravel + React/Next.js | Building AI-augmented apps | Ex-Everbit Intern | Sarajevo → Remote EU  <br>
   <p align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/HTML-lightgreen?style=flat&logo=HTML5&logoColor=lightgreen&color=black">
     <img alt="Static Badge" src="https://img.shields.io/badge/CSS-lightgreen?style=flat&logo=CSS&logoColor=lightgreen&color=black">
