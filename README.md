@@ -5,7 +5,9 @@
 </p>
 <hr>
 <p align="center">
-Currently working as an AI Solutions Engineer at Brookstone Partners | Laravel + React/Next.js | AI Integration | Ex-Everbit Intern (Sarajevo → Remote EU)  <br>
+Currently working as an AI Solutions Engineer at Brookstone Partners. <br>
+AI Integration | Ex-Everbit Intern (Sarajevo → Remote EU) 
+<hr>
   <p align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-lightgreen?style=flat&logo=JavaScript&logoColor=lightgreen&color=black">
     <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-lightgreen?style=flat&logo=TypeScript&logoColor=lightgreen&color=black">
@@ -18,6 +20,7 @@ Currently working as an AI Solutions Engineer at Brookstone Partners | Laravel +
     <img alt="Static Badge" src="https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=lightgreen&color=black">
     <img alt="Static Badge" src="https://img.shields.io/badge/PHP%20-%20black?logo=php&logoColor=lightgreen">
     <img alt="Static Badge" src="https://img.shields.io/badge/Laravel%20-%20black?logo=laravel&logoColor=lightgreen">
-
+<br>
+  Check out my full-stack projects below! 
   </p>
 </p>
